@@ -1,6 +1,6 @@
 {
   "name": "create-bhavya-ts-api",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "main": "bin/create-starter.js",
   "type": "module",
   "bin": {
