@@ -1,0 +1,25 @@
+{
+  "name": "create-bhavya-ts-api",
+  "version": "1.1.1",
+  "main": "bin/create-starter.js",
+  "type": "module",
+  "bin": {
+    "create-bhavya-ts-api": "bin/create-starter.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "express",
+    "api",
+    "starter"
+  ],
+  "author": "BhavyaJustChill",
+  "license": "MIT",
+  "description": "A CLI tool to create a TypeScript Express API project",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "ora": "^8.1.0"
+  }
+}
